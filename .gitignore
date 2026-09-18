@@ -1,0 +1,29 @@
+# Chaves e variáveis de ambiente
+.env
+.env.*
+
+# Ambientes virtuais Python
+venv/
+venv311/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# ChromaDB
+chroma.sqlite3
+chroma/
+chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
